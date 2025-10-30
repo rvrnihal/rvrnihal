@@ -138,8 +138,7 @@ I'm always excited to connect with fellow developers, discuss innovative project
 
 **⭐ If you find my work interesting, consider starring my repositories!**
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=rvrnihal&label=Profile%20Views&color=0e75b6&pretty=true)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=rvrnihal&label=Profile%20Views&icon=8&pretty=false)](https://visitcount.itsvg.in)
 </div>
 
 ---
