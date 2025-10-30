@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+Full+Stack+Engineer;Machine+Learning+Enthusiast;Building+Tomorrow's+Technology+Today" alt="Typing SVG" />
 </div>
 
+---
+
 ## 🚀 About Me
 
 🎓 **B.Tech Computer Science Engineering** (4th Year) at **ACE Engineering College**  
@@ -12,11 +14,14 @@
 🔭 Currently working on cutting-edge AI projects and full-stack development  
 🌱 Always learning and exploring new technologies in AI/ML and cloud computing  
 
+---
+
 ### 🎯 What I Do
-- **Artificial Intelligence & Machine Learning:** Building intelligent systems with PyTorch, TensorFlow, and scikit-learn
-- **Full-Stack Development:** Creating scalable web applications with React, Node.js, and modern frameworks
-- **Cloud & DevOps:** Deploying solutions on AWS with Docker and Kubernetes
-- **Mobile Development:** Crafting cross-platform apps with Flutter
+
+- **Artificial Intelligence & Machine Learning:** Building intelligent systems with PyTorch, TensorFlow, and scikit-learn  
+- **Full-Stack Development:** Creating scalable web applications with React, Node.js, and modern frameworks  
+- **Cloud & DevOps:** Deploying solutions on AWS with Docker and Kubernetes  
+- **Mobile Development:** Crafting cross-platform apps with Flutter  
 
 ---
 
@@ -96,12 +101,13 @@
 
 ## 💼 Professional Experience
 
-**🚀 Web Developer Intern @ Adani Wilmar
-**Designed and developed dynamic, responsive user interfaces using Flutter to enhance user engagement across platforms.
-**Collaborated with UI/UX designers and backend teams to deliver seamless, visually appealing digital experiences.
-**Optimized front-end performance and implemented reusable components to improve development efficiency.
-**Integrated REST APIs and ensured smooth data communication between frontend and backend systems.
-**Leveraged agile methodologies, version control (Git), and modern design principles to build production-ready web solutions.
+### 🚀 Web Developer Intern @ Adani Wilmar  
+- Designed and developed dynamic, responsive user interfaces using **Flutter** to enhance user engagement across platforms.  
+- Collaborated with UI/UX designers and backend teams to deliver seamless, visually appealing digital experiences.  
+- Optimized front-end performance and implemented reusable components to improve development efficiency.  
+- Integrated REST APIs and ensured smooth data communication between frontend and backend systems.  
+- Leveraged agile methodologies, version control (**Git**), and modern design principles to build production-ready web solutions.  
+
 ---
 
 ## 🌟 What Sets Me Apart
@@ -127,9 +133,9 @@
 
 I'm always excited to connect with fellow developers, discuss innovative projects, and explore new opportunities!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramnihal)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rvrnihal@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/rvrnihal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramnihal)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rvrnihal@gmail.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/rvrnihal)  
 
 ---
 
