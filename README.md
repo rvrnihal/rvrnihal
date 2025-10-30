@@ -97,11 +97,11 @@
 ## 💼 Professional Experience
 
 **🚀 Web Developer Intern @ Adani Wilmar
--Designed and developed dynamic, responsive user interfaces using Flutter to enhance user engagement across platforms.
--Collaborated with UI/UX designers and backend teams to deliver seamless, visually appealing digital experiences.
--Optimized front-end performance and implemented reusable components to improve development efficiency.
--Integrated REST APIs and ensured smooth data communication between frontend and backend systems.
--Leveraged agile methodologies, version control (Git), and modern design principles to build production-ready web solutions.
+**Designed and developed dynamic, responsive user interfaces using Flutter to enhance user engagement across platforms.
+**Collaborated with UI/UX designers and backend teams to deliver seamless, visually appealing digital experiences.
+**Optimized front-end performance and implemented reusable components to improve development efficiency.
+**Integrated REST APIs and ensured smooth data communication between frontend and backend systems.
+**Leveraged agile methodologies, version control (Git), and modern design principles to build production-ready web solutions.
 ---
 
 ## 🌟 What Sets Me Apart
